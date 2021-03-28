@@ -1,4 +1,4 @@
-package com.example.boragapp
+package com.borag.boragapp
 
 import io.flutter.embedding.android.FlutterActivity
 

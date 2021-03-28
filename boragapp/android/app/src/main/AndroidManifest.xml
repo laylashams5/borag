@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.boragapp">
+    package="com.borag.boragapp">
    <application
-        android:label="boragapp"
+        android:label="Borag|بُراق"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
